@@ -1,0 +1,42 @@
+{
+    "page":{
+        "size": 10,
+        "total": 8,
+        "currentPage": 1,
+        "totalPages": 1
+    },
+    "informations": [
+        {
+            "id": 1,
+            "volume": "metric 1"
+        },
+        {
+            "id": 2,
+            "volume": "metric 2"
+        },
+        {
+            "id": 3,
+            "volume": "metric 3"
+        },
+        {
+            "id": 4,
+            "volume": "metric 4"
+        },
+        {
+            "id": 5,
+            "volume": "metric 5"
+        },
+        {
+            "id": 6,
+            "volume": "metric 6"
+        },
+        {
+            "id": 7,
+            "volume": "metric 7"
+        },
+        {
+            "id": 8,
+            "volume": "metric 8"
+        }
+    ]
+}

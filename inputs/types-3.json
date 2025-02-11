@@ -1,0 +1,50 @@
+{
+    "page":{
+        "size": 10,
+        "total": 30,
+        "currentPage": 3,
+        "totalPages": 3
+    },
+    "data": [
+        {
+            "id": 1,
+            "name": "type 21"
+        },
+        {
+            "id": 2,
+            "name": "type 22"
+        },
+        {
+            "id": 3,
+            "name": "type 23"
+        },
+        {
+            "id": 4,
+            "name": "type 24"
+        },
+        {
+            "id": 5,
+            "name": "type 25"
+        },
+        {
+            "id": 6,
+            "name": "type 26"
+        },
+        {
+            "id": 7,
+            "name": "type 27"
+        },
+        {
+            "id": 8,
+            "name": "type 28"
+        },
+        {
+            "id": 9,
+            "name": "type 29"
+        },
+        {
+            "id": 10,
+            "name": "type 30"
+        }
+    ]
+}
